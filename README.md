@@ -17,8 +17,6 @@
 Développeur Full-Stack JavaScript basé en Algérie 🇩🇿, je conçois des applications web, mobiles et desktop de bout en bout.  
 Co-fondateur de **[BlackSlash.dev](https://blackslash.dev)** · Développeur chez **Kynex.global** · M1 ISI @ UMMTO.
 
-Actuellement en charge de **Talantys** — plateforme de recrutement algérienne en production (web + mobile), construite avec AdonisJS, React et Expo.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A3D34&height=1&section=header" width="100%"/>
 
 ### 🛠️ Stack technique
