@@ -64,7 +64,7 @@ Actuellement en charge de **Talantys** — plateforme de recrutement algérienne
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedBelaiboud24&show_icons=true&theme=dark&hide_border=true&bg_color=0C1A12&title_color=4ADE80&icon_color=4ADE80&text_color=E8F0EC)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedBelaiboud24&theme=dark&hide_border=true&background=0C1A12&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBelaiboud24&layout=compact&theme=dark&hide_border=true&bg_color=0C1A12&title_color=4ADE80&text_color=E8F0EC)
 
